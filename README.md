@@ -2,7 +2,7 @@
 
 My name is Cem Güleç and I'm open to new opportunities
 
-- 🔭 I’m currently working on artificial intelligence, specifically on machine learning.
+- 🔭 I’m currently working on artificial intelligence, particularly on machine learning.
 - 🌱 I’m currently learning Elastic Search, Logstash, Kibana, Graylog, Apache Kafka, Linux
 - 👯 I’m looking to collaborate on Github.
 - 📫 How to reach me: https://www.linkedin.com/in/cem-gulec/
