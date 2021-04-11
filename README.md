@@ -5,7 +5,7 @@ My name is Cem Güleç and I'm open to new opportunities
 - 🔭 I’m currently working on artificial intelligence, particularly on machine learning.
 - 🌱 I’m currently learning Elastic Search, Logstash, Kibana, Graylog, Apache Kafka, Linux
 - 👯 I’m looking to collaborate on Github.
-- 📫 How to reach me: 
+- 📫 How to reach me:  
  <a href="https://www.linkedin.com/in/cem-gulec/" target="_blank" rel="nofollow"><img alt="Cem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cem.ggulecc@gmail.com" target="_blank" rel="nofollow"><img alt="Selim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
