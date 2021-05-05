@@ -11,7 +11,7 @@ My name is Cem Güleç and I'm open to new opportunities
   <a href="https://www.hackerrank.com/cem_ggulec?hr_r=1" target="_blank" rel="nofollow"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 ## My Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cem-Gulec&hide=html,jupyter notebook,cmake&layout=compact&langs_count=10&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cem-Gulec&hide=html,jupyter notebook,cmake, makefile&layout=compact&langs_count=10&show_icons=true">
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Cem-Gulec&count_private=true&show_icons=true)
 
