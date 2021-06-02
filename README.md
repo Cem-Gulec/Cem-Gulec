@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Cem Güleç and I'm open to new opportunities
 
