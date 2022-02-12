@@ -12,7 +12,3 @@ My name is Cem Güleç and I'm open to new opportunities
 
 ## My Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cem-Gulec&hide=html,jupyter notebook,cmake, makefile&layout=compact&langs_count=10&show_icons=true">
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Cem-Gulec&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Cem-Gulec&hide_border=true)
