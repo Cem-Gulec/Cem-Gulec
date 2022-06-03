@@ -1,4 +1,4 @@
-### Hello World!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello There!  
 
  <a href="https://www.linkedin.com/in/cem-gulec/" target="_blank" rel="nofollow"><img alt="Cem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cem.ggulecc@gmail.com" target="_blank" rel="nofollow"><img alt="Cem's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
