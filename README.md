@@ -18,6 +18,7 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,go,java,js,ts,py,haskell" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" alt="r" width="40" height="40" />
 </p>
 
 
@@ -33,22 +34,46 @@
 </p>
 
 
-<h3 align="left">Data, AI & Databases</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,mysql,postgres,elasticsearch,sqlite,firebase" />
-</p>
-
-
-<h3 align="left">Data Visualization</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="40" height="40" />
-</p>
-
 
 <h3 align="left">Tools, Cloud & Testing</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,bash,linux,git,selenium,jest,postman,matlab" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,bash,linux,git,githubactions,selenium,jest,postman,matlab" />
   <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40" />
+ <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" width="40" height="40" />
+ <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="swagger" width="40" height="40" />
 </p>
+
+
+
+
+
+<h3 align="left">AI / ML:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+</p>
+
+<h3 align="left">AI Apps & Interfaces:</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40" />
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,elasticsearch,sqlite,firebase" />
+</p>
+
+<h3 align="left">Visualization Libraries</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40" />
+</p>
+
+<p align="left">
+  <strong>Dashboards & Log Analytics:</strong><br/>
+  <img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/graylog/FF3633" alt="graylog" width="40" height="40" />
+</p>
+
+--
