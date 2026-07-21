@@ -19,49 +19,71 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,go,java,js,ts,py,haskell" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="r" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="Javascript" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="python" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="r" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=go" title="Go" alt="go" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="c" />
+  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell" alt="haskell" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="java" />
 </p>
 
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,vuetify,redux,tailwind,nextjs,nuxtjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="vue" />
+  <img src="https://skillicons.dev/icons?i=vuetify" title="Vuetify" alt="vuetify" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" alt="nuxtjs" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="react" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="redux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="nextjs" />
 </p>
 
 
-<h3 align="left">Backend Development & Frameworks</h3>
+<h3 align="left">Backend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,kafka,nginx,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="express.js" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="django" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="fastapi" />
+  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="kafka" />
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="nginx" />
 </p>
 
 
-<h3 align="left">Data, AI & Analytics</h3>
+<h3 align="left">AI and Data Analytics</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,d3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="Pytorch" alt="pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="sklearn" />
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" alt="anaconda" />
+  <img src="https://skillicons.dev/icons?i=d3" title="D3.js" alt="d3.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" alt="streamlit" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" title="Gradio" alt="gradio" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" title="Chart.js" alt="chartjs" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=matlab" title="Matlab" alt="matlab" />  
 </p>
 
-<h3 align="left">Databases, Search & Observability</h3>
+<h3 align="left">Databases and Monitoring</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,elasticsearch" />
-  <img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/graylog/FF3633" alt="graylog" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/graylog/FF3633" alt="graylog" width="45" height="45" />
 </p>
 
-<h3 align="left">Cloud, DevOps & Workflow</h3>
+<h3 align="left">Cloud and DevOps</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,bash,linux,git,githubactions" />
 </p>
 
-<h3 align="left">Testing, APIs & Automation</h3>
+<h3 align="left">Testing and Automation</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=selenium,jest,postman" />
-  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="swagger" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="swagger" width="45" height="45" />
 </p>
