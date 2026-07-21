@@ -2,7 +2,7 @@
 
 • I am a software engineer with 3+ years of experience building web applications, data-driven systems, and machine-learning supported tools. My work combines full-stack development, data engineering, and applied AI, with a focus on turning complex technical workflows into reliable, usable, and scalable software.
 
-• In my recent role at Helmholtz Munich, I developed reproducible data infrastructures, interactive web applications, and workflow tools used in large-scale analytical projects. Previously, I worked on real-time monitoring and anomaly detection systems in the banking sector, as well as web-based search and analytics products. Across these experiences, I have worked with technologies such as Python, Go, JavaScript, Vue.js, Next.js, Express.js, Django, PostgreSQL, Elasticsearch, Kafka, Docker, AWS, and Google Cloud Platform.
+• In my recent role at Helmholtz Munich, I developed reproducible data infrastructures, interactive web applications, and workflow tools used in large-scale analytical projects. Previously, I worked on real-time monitoring and anomaly detection systems in the finance sector, as well as web-based search and analytics products. Across these experiences, I have worked with technologies such as Python, Go, JavaScript, Vue.js, Next.js, Express.js, Django, PostgreSQL, Elasticsearch, Kafka, Docker, AWS, and Google Cloud Platform.
 
 • I am especially interested in software roles where strong engineering practices, thoughtful product design, and data-intensive systems come together. I enjoy collaborating across disciplines, building tools that make complex systems easier to use, and continuously expanding my technical perspective.
 
