@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cem Güleç
+# Hi 👋, I'm Cem
 
 • I am a software engineer with 3+ years of experience building web applications, data-driven systems, and machine-learning supported tools. My work combines full-stack development, data engineering, and applied AI, with a focus on turning complex technical workflows into reliable, usable, and scalable software.
 
