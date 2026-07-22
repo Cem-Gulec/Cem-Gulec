@@ -19,8 +19,8 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" title="Javascript" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="python" />
   <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="r" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=go" title="Go" alt="go" />
@@ -32,8 +32,8 @@
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="vue" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="vue" />
   <img src="https://skillicons.dev/icons?i=vuetify" title="Vuetify" alt="vuetify" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" alt="nuxtjs" />
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="react" />
@@ -49,41 +49,53 @@
   <img src="https://skillicons.dev/icons?i=django" title="Django" alt="django" />
   <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" />
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="fastapi" />
-  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="kafka" />
+  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="kafka" />
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="nginx" />
 </p>
 
 
 <h3 align="left">AI and Data Analytics</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" title="Pytorch" alt="pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="pytorch" />
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="tensorflow" />
   <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="sklearn" />
   <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" alt="anaconda" />
-  <img src="https://skillicons.dev/icons?i=d3" title="D3.js" alt="d3.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="45" height="45" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" alt="streamlit" width="45" height="45" />
-  <img src="https://cdn.simpleicons.org/gradio/FF7C00" title="Gradio" alt="gradio" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=d3" title="D3.js" alt="d3.js" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" title="Chart.js" alt="chartjs" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=matlab" title="Matlab" alt="matlab" />  
+  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="matlab" />  
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" alt="streamlit" width="45" height="45" />  
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" title="Gradio" alt="gradio" width="45" height="45" />
 </p>
 
 <h3 align="left">Databases and Monitoring</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,elasticsearch" />
-  <img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="45" height="45" />
-  <img src="https://cdn.simpleicons.org/graylog/FF3633" alt="graylog" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" alt="elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="postgresql" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="mysql" /> 
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="sqlite" /> 
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="firebase" /> 
+  <img src="https://cdn.simpleicons.org/kibana/005571" title="Kibana" alt="kibana" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/graylog/FF3633" title="Graylog" alt="graylog" width="45" height="45" />  
 </p>
 
 <h3 align="left">Cloud and DevOps</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,bash,linux,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="gcp" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="bash" />  
 </p>
 
 <h3 align="left">Testing and Automation</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,jest,postman" />
-  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="45" height="45" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" width="45" height="45" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="swagger" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" alt="jest" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" title="pytest" alt="pytest" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=selenium" title="Selenium" alt="selenium" />
+  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" title="Puppeteer" alt="puppeteer" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" alt="swagger" width="45" height="45" />
 </p>
